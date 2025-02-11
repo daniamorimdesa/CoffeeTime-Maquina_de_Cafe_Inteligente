@@ -29,7 +29,8 @@ Esse projeto faz parte da primeira fase do programa, como exemplo prático de au
 - **Servomotores**  
 - **Buzzer**  
 - **Display LCD I2C**  
-- **Controle Remoto IR**  
+- **Controle Remoto IR**
+- **RTC (controle de tempo/agendamento)**
 
 ---
 
@@ -67,5 +68,5 @@ Este projeto é de uso livre para fins educacionais e não comerciais.
 ## Autora  
 **Daniela Amorim de Sá**  
 Engenheira Eletrônica | Sistemas Embarcados e IoT  
-Projeto desenvolvido como parte do curso Embarcatech.  
+Projeto desenvolvido como parte do curso EmbarcaTech.  
 
