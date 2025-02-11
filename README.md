@@ -31,6 +31,8 @@ Esse projeto faz parte da primeira fase do programa, como exemplo prático de au
 - **Display LCD I2C**  
 - **Controle Remoto IR**
 - **RTC (controle de tempo/agendamento)**
+- **Potenciômetros lineares (ajuste de intensidade, temperatura e quantidade de água)**
+- **LEDs indicativos e barra de LEDs (para exibir a intensidade da bebida)**
 
 ---
 
