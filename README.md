@@ -83,13 +83,10 @@ Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi
 
 ## 📖 Documentação completa
 A documentação detalhada do projeto está disponível no PDF a seguir:
-[📄 CoffeeTime - Documentação Completa](PROJETO FINAL.pdf)
+[📄 Documentação Completa (PDF)](https://github.com/daniamorimdesa/CoffeeTime-Maquina_de_Cafe_Inteligente/blob/main/PROJETO%20FINAL.pdf)
 
 ---
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
 ## Autora  
 **Daniela Amorim de Sá**  
 Engenheira Eletrônica | Sistemas Embarcados e IoT  
