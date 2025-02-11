@@ -1,11 +1,11 @@
 # Coffee Time - Smart Coffee Machine ☕  
-**Projeto Final do Curso Embarcatech - Máquina de Café Inteligente utilizando Raspberry Pi Pico W**  
+**Projeto Final do Curso EmbarcaTech - Máquina de Café Inteligente utilizando Raspberry Pi Pico W**  
 
 ## Sobre o Projeto  
-O Coffee Time é uma máquina de café inteligente desenvolvida como **projeto final do curso Embarcatech**, simulando o preparo de café personalizado com ajuste de intensidade, temperatura e quantidade. O sistema integra sensores e atuadores para monitoramento e controle, sendo totalmente simulado na plataforma [Wokwi](https://wokwi.com).  
+O Coffee Time é uma máquina de café inteligente desenvolvida como **projeto final do curso EmbarcaTech**, simulando o preparo de café personalizado com ajuste de intensidade, temperatura e quantidade. O sistema integra sensores e atuadores para monitoramento e controle, sendo totalmente simulado na plataforma [Wokwi](https://wokwi.com).  
 
-## O que é o Embarcatech?  
-O **Embarcatech** é um programa de capacitação profissional destinado a alunos de nível superior em Tecnologias da Informação e Comunicação (TIC) e áreas correlatas, com foco em **Sistemas Embarcados e Internet das Coisas (IoT)**. O programa é composto por:  
+## O que é o EmbarcaTech?  
+O **EmbarcaTech** é um programa de capacitação profissional destinado a alunos de nível superior em Tecnologias da Informação e Comunicação (TIC) e áreas correlatas, com foco em **Sistemas Embarcados e Internet das Coisas (IoT)**. O programa é composto por:  
 1. **Capacitação online inicial (3 meses)**: Abordagem de conceitos e desenvolvimento de projetos práticos em sistemas embarcados.  
 2. **Residência Tecnológica (12 meses)**: Aplicação prática dos conhecimentos adquiridos em estudos de caso e projetos em áreas como educação, segurança, indústria e saúde.  
 
