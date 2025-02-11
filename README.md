@@ -87,6 +87,12 @@ A documentação detalhada do projeto está disponível no PDF a seguir:
 
 ---
 
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+[📝 Licença MIT](https://github.com/daniamorimdesa/CoffeeTime-Maquina_de_Cafe_Inteligente/blob/main/LICENSE)
+
+---
+
 ## Autora  
 **Daniela Amorim de Sá**  
 Engenheira Eletrônica | Sistemas Embarcados e IoT  
