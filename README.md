@@ -57,8 +57,9 @@ Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi
 - **interface_usuario.c / interface_usuario.h**: Exibição de menus e interação com o usuário.
 - **processos_internos.c / processos_internos.h**: Configuração inicial e lógica interna do preparo do café.
 - **atuadores.c / atuadores.h**: Controle dos LEDs, servomotores, motor de passo e buzzer.
-- **sensores.c / sensores.h**: Leitura e processamento de dados dos sensores de temperatura e umidade.
+- **sensores.c / sensores.h**: Leitura e processamento de dados dos sensores.
 - **controle_ir.c / controle_ir.h**: Controle e interpretação de comandos do controle remoto IR.
+- **lcd_i2c..c / lcd_i2c.h:** Controle do display LCD
 
 ---
 
