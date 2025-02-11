@@ -83,7 +83,7 @@ Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi
 
 ## 📖 Documentação completa
 A documentação detalhada do projeto está disponível no PDF a seguir:
-[📄 CoffeeTime - Documentação Completa](PROJETO_FINAL.pdf)
+[📄 CoffeeTime - Documentação Completa](PROJETO FINAL.pdf)
 
 ---
 ## 📄 Licença
