@@ -4,6 +4,8 @@
 ## Sobre o Projeto  
 O Coffee Time é uma máquina de café inteligente desenvolvida como **projeto final do curso EmbarcaTech**, simulando o preparo de café personalizado com ajuste de intensidade, temperatura e quantidade. O sistema integra sensores e atuadores para monitoramento e controle, sendo totalmente simulado na plataforma [Wokwi](https://wokwi.com).  
 
+![cIRCUITO DESENVOLVIDO](media/1.JPG)
+
 ## O que é o EmbarcaTech?  
 O **EmbarcaTech** é um programa de capacitação profissional destinado a alunos de nível superior em Tecnologias da Informação e Comunicação (TIC) e áreas correlatas, com foco em **Sistemas Embarcados e Internet das Coisas (IoT)**. O programa é composto por:  
 1. **Capacitação online inicial (3 meses)**: Abordagem de conceitos e desenvolvimento de projetos práticos em sistemas embarcados.  
@@ -18,7 +20,9 @@ Esse projeto faz parte da primeira fase do programa, como exemplo prático de au
 - Ajuste personalizado de intensidade, temperatura e quantidade de café.  
 - Preparo de café agendado ou imediato.  
 - Indicação de status no display LCD e barra de LEDs.  
-- Controle remoto para interação com a máquina.  
+- Controle remoto para interação com a máquina.
+  
+  ![cIRCUITO DESENVOLVIDO](media/5.JPG)
 
 ---
 
@@ -37,7 +41,9 @@ Esse projeto faz parte da primeira fase do programa, como exemplo prático de au
 ---
 
 ## Simulação  
-Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi.com/projects/422226074874479617).  
+Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi.com/projects/422226074874479617). 
+
+![cIRCUITO DESENVOLVIDO](media/7.JPG)
 
 ---
 
