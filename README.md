@@ -15,18 +15,19 @@ Esse projeto faz parte da primeira fase do programa, como exemplo prático de au
 
 ---
 
-## Funcionalidades  
+## Principais funcionalidades:
 - Monitoramento de temperatura e umidade do ambiente (sensor DHT22).  
-- Ajuste personalizado de intensidade, temperatura e quantidade de café.  
+- Ajuste personalizado de intensidade, temperatura e quantidade de café.
+- Simulação de moagem e preparo do café 
 - Preparo de café agendado ou imediato.  
 - Indicação de status no display LCD e barra de LEDs.  
 - Controle remoto para interação com a máquina.
-  
+
   ![cIRCUITO DESENVOLVIDO](media/5.JPG)
 
 ---
 
-## Componentes Utilizados  
+## Componentes utilizados  
 - **Raspberry Pi Pico W**  
 - **Sensor DHT22** (Temperatura e Umidade)  
 - **Motor de Passo**  
@@ -47,7 +48,7 @@ Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi
 
 ---
 
-## Como Executar o Projeto  
+## Como executar o Projeto  
 1. Clone este repositório:  
    ```sh
    git clone https://github.com/seu-usuario/coffeetime.git
@@ -58,6 +59,17 @@ Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi
 ---
 
 ## Estrutura do Projeto  
+```
+📂 CoffeeTime-Maquina_de_Cafe_Inteligente
+├── main.c                       → Função principal e loop de controle
+├── sensores.h / sensores.c       → Leitura de ADC, DHT22, RTC e verificação de recursos
+├── atuadores.h / atuadores.c     → Controle dos servomotores, motor de passo e LEDs
+├── interface_usuario.h / interface_usuario.c → Exibição de menus, telas e interação com o usuário
+├── estado.h / estado.c           → Transição e gerenciamento dos estados da máquina
+├── controle_ir.h / controle_ir.c → Tratamento de eventos do controle IR
+└── lcd_i2c.h / lcd_i2c.c         → Controle do display LCD
+```
+
 - **main.c**: Função principal do projeto, responsável pelo loop principal e inicialização do sistema.
 - **estado.c / estado.h**: Gerenciamento dos estados da máquina de café.
 - **interface_usuario.c / interface_usuario.h**: Exibição de menus e interação com o usuário.
@@ -69,11 +81,15 @@ Você pode acessar a simulação completa no Wokwi clicando [aqui](https://wokwi
 
 ---
 
-## Licença  
-Este projeto é de uso livre para fins educacionais e não comerciais.
+## 📖 Documentação completa
+A documentação detalhada do projeto está disponível no PDF a seguir:
+[📄 CoffeeTime - Documentação Completa](PROJETO_FINAL.pdf)
 
 ---
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+---
 ## Autora  
 **Daniela Amorim de Sá**  
 Engenheira Eletrônica | Sistemas Embarcados e IoT  
